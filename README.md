@@ -12,7 +12,7 @@ The lab demonstrates the deployment and tuning of intrusion detection rules, pac
 
 ![Network Topology] (https://github.com/ldodson10/cybersecurity-phase1-lab-final/blob/main/screenshots/Cybersecurity_Lab_Topology.drawio.png)
 
-*Figure 1: Virtual network architecture showing pfSense (em0 – WAN via NAT, em1
+*Figure 1: Virtual network architecture showing pfSense (em0 – WAN via NAT, em1 - LAN 192.168.10.1), Kali Linux (192.168.10.100), and subnet 192.168.10.0/24.*
 
 - **WAN (NAT):** pfSense connects to the internet (DHCP)
 - **LAN (Internal):** 192.168.10.0/24 subnet for intra-network traffic
