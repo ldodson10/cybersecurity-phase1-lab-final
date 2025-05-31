@@ -49,11 +49,11 @@ The lab demonstrates the deployment and tuning of intrusion detection rules, pac
 
 ## Screenshots Included
 
-- pfSense interface setup  
-- WebConfigurator access and Snort configuration  
-- Alert logs triggered by Nmap scans  
-- Firewall rule blocking Kali's IP  
-- Network map (from Packet Tracer or equivalent)
+- pfSense interface setup (https://github.com/ldodson10/cybersecurity-phase1-lab-final/blob/main/screenshots/PFSENSE_final_console.png)
+- WebConfigurator access and Snort configuration (https://github.com/ldodson10/cybersecurity-phase1-lab-final/blob/main/screenshots/ping_success.png)
+- Alert logs triggered by Nmap scans (https://github.com/ldodson10/cybersecurity-phase1-lab-final/blob/main/screenshots/nmap_%20scan_run_view_results.png)
+- Firewall rule blocking Kali's IP (https://github.com/ldodson10/cybersecurity-phase1-lab-final/blob/main/screenshots/Kali_connection_timed_out.png
+- - Network map (from Packet Tracer or equivalent) (https://github.com/ldodson10/cybersecurity-phase1-lab-final/blob/main/screenshots/nmap_%20scan_run_view_results.png)
 
 ## References
 
