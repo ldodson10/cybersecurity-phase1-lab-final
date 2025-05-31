@@ -10,7 +10,7 @@ The lab demonstrates the deployment and tuning of intrusion detection rules, pac
 
 ## 🖥️ Network Topology
 
-![Network Topology](https://github.com/ldodson10/cybersecurity-phase1-lab-final/blob/main/screenshots/topology.png?raw=true)
+![Network Topology] (https://github.com/ldodson10/cybersecurity-phase1-lab-final/blob/main/screenshots/Cybersecurity_Lab_Topology.drawio.png)
 
 *Figure 1: Virtual network architecture showing pfSense (em0 – WAN via NAT, em1
 
