@@ -8,7 +8,11 @@ This hands-on cybersecurity project simulates a real-world network defense scena
 
 The lab demonstrates the deployment and tuning of intrusion detection rules, packet filtering, and proactive threat mitigation using pfSense and Snort.
 
-## Network Topology
+## 🖥️ Network Topology
+
+![Network Topology](https://github.com/ldodson10/cybersecurity-phase1-lab-final/blob/main/screenshots/topology.png?raw=true)
+
+*Figure 1: Virtual network architecture showing pfSense (em0 – WAN via NAT, em1
 
 - **WAN (NAT):** pfSense connects to the internet (DHCP)
 - **LAN (Internal):** 192.168.10.0/24 subnet for intra-network traffic
